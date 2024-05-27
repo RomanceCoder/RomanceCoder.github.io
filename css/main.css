@@ -2363,12 +2363,6 @@ header.header {
   animation: beat 1.33s ease-in-out infinite;
 }
 
-.beian img {
-  display: inline-block;
-  margin: 0 3px;
-  vertical-align: middle;
-}
-
 /*
 // < 767px
 @include mobile() {
@@ -2552,7 +2546,7 @@ header.header {
 
 .reading-progress-bar {
   --progress: 0;
-  background: #37c6c0;
+  background: #100221;
   height: 3px;
   position: fixed;
   z-index: 50;
